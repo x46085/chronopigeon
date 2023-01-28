@@ -1,0 +1,15 @@
+-i https://pypi.org/simple
+bandit==1.6.2
+celery==5.1.2
+flake8==3.8.3
+grpcio-health-checking==1.30.0
+grpcio-tools==1.30.0
+grpcio==1.30.0
+jinja2==2.11.2
+protobuf==3.12.4
+ptvsd==4.3.2
+pylint==2.5.3
+natural==0.2.0
+requests==2.22.0
+urllib3==1.25.3
+requests==2.22.0
